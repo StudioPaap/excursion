@@ -1,9 +1,63 @@
-<!DOCTYPE html>
-<html>
+html{
+    background-color: black;
     
-    <head>
-        
-        <link rel="stylesheet" href="main.css">
-    </head>
-<body>
-</body
+}
+
+h1{
+    font-family: "Verdana";
+    text-align: center;
+    font-size: 50px;
+    font-weight: normal;
+    color:white;
+    
+}
+
+.header a{
+    font-family: "verdana";
+    color: aqua;
+    font=size:16px;
+    text-align: center;
+    text-decoration: underline;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.video video{
+ display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
+
+.tekst2{
+    margin-top: 40px;
+    
+}
+
+.tekst2 h2{
+    font-family: "Verdana";
+    font-size:42px;
+    font-weight: 300;
+    text-align: center;
+    color: white;
+    
+    
+}
+
+.tekst2 p{
+    font-family: "Verdana";
+    Font-size: 21px;
+    color: grey;
+    text-align: center;
+    
+}
+
+.tekst2 img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    
+}
+
